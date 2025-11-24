@@ -111,5 +111,3 @@ RiverTheme makes this project available for demo, instructional, and personal us
 ## 🤝 Contributing
 
 This project is maintained by [RiverTheme.com](https://RiverTheme.com). For professional development, customizations, or commercial licensing, please contact us through our website.
-
----
